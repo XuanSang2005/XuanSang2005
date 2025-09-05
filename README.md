@@ -33,13 +33,10 @@
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </p>
@@ -48,13 +45,14 @@
 
 ### 📌 Featured Projects
 <p align="center">
-  <a href="https://github.com/xuansang2005/portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xuansang2005&repo=portfolio&theme=radical" />
+  <a href="https://github.com/xuansang2005/shopping_web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=GitGud031005&repo=shopping_web&theme=radical" />
   </a>
-  <a href="https://github.com/xuansang2005/leetcode-solutions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xuansang2005&repo=leetcode-solutions&theme=radical" />
+  <a href="https://github.com/xuansang2005/React-preview">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xuansang2005&repo=React-preview&theme=radical" />
   </a>
 </p>
+
 
 
 ---
@@ -82,17 +80,24 @@
 
 ---
 
-### 🏆 Trophies
+### 🏅 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xuansang2005&theme=flat&no-frame=true&margin-w=15&title=Commit,Repo,Stars,Followers,PullRequest,Issues" />
+  <img src="https://img.shields.io/badge/Commits-First%20Commit-f97316?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/PRs-First%20Pull-ef4444?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repos-First%20Repository-f59e0b?style=flat&logo=github&logoColor=white" />
 </p>
+
+
+
+
 
 ---
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xuansang2005&theme=warm&radius=8&area=true" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xuansang2005&theme=github-compact&bg_color=00000000&color=f97316&line=ef4444&point=facc15&area=true&hide_border=true" />
 </p>
+
 
 ---
 
