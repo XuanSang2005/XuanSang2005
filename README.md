@@ -59,26 +59,21 @@
 ---
 
 ### 📊 GitHub Stats
-<picture>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=xuansang2005&show_icons=true&theme=sunset-gradient&rank_icon=github"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=xuansang2005&show_icons=true&theme=default&rank_icon=github"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=xuansang2005&show_icons=true" alt="stats" />
-</picture>
+
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xuansang2005&theme=radical" alt="streak" />
+  <img 
+    src="https://streak-stats.demolab.com?user=xuansang2005&hide_border=true&background=00000000&ring=ef4444&fire=f97316&currStreakLabel=f59e0b&sideNums=f59e0b&sideLabels=ffffff" 
+    alt="streak" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xuansang2005&show_icons=true&layout=compact&langs_count=8&theme=radical" alt="langs" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=xuansang2005&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=f97316&text_color=ffffff" 
+    alt="langs" 
+  />
 </p>
-
 ---
 
 ### 🏅 Achievements
@@ -92,7 +87,6 @@
 
 
 
----
 
 ### 📈 Activity Graph
 <p align="center">
