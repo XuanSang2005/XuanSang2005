@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Xuân Sang</h1>
-<h3 align="center">🚀 A passionate Frontend Developer and I am currently studing at HCMUT</h3>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1200&center=true&vCenter=true&repeat=true&width=900&height=35&lines=%F0%9F%9A%80+A+passionate+Frontend+Developer+and+studying+at+HCMUT"
+    alt="Typing SVG"
+  />
+</p>
 
 ---
 
