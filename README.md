@@ -1,7 +1,8 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Hi%20there%20👋%20I'm%20Xuân%20Sang&fontAlign=50&fontAlignY=35&color=0:f59e0b,100:ef4444&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&width=1000&text=Hi%20there%20👋%20I'm%20Xuân%20Sang&fontAlign=50&fontAlignY=40&color=0:f59e0b,100:ef4444&fontColor=ffffff&fontSize=45" />
 </p>
+
 
 <!-- Typing Line -->
 <p align="center">
@@ -103,8 +104,12 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/xuansang2005/xuansang2005/output/snake.svg" alt="snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xuansang2005/xuansang2005/output/snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/xuansang2005/xuansang2005/output/snake.svg" />
+  </picture>
 </p>
+
 
 <!-- Footer Wave -->
 <p align="center">
