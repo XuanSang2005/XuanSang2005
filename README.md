@@ -103,6 +103,14 @@
     <img alt="snake animation" src="https://raw.githubusercontent.com/xuansang2005/xuansang2005/output/snake.svg" />
   </picture>
 </p>
+<!-- LeetCode -->
+<h2 align="center">🧩 LeetCode</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/sangbom2005/">
+    <img src="https://leetcard.jacoblin.cool/sangbom2005?ext=heatmap&theme=dark&border=0&radius=16&font=Source%20Code%20Pro&hide=ranking" />
+  </a>
+</p>
 
 
 <!-- Footer Wave -->
