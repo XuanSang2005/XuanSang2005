@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Xuân Sang</h1>
-<h3 align="center">🚀 A passionate Frontend Developer from India</h3>
+<h3 align="center">🚀 A passionate Frontend Developer</h3>
 
 ---
 
 ### 🌟 About Me
-- 🔭 I’m currently working on **Fullstack Projects with NestJS & Node.js**  
-- 🌱 I’m currently learning **React, Next.js, and TypeScript**  
-- 💬 Ask me about **JavaScript, Python, TailwindCSS**  
-- 📫 Reach me at **your-email@example.com**  
-- ⚡ Fun fact: *I love problem-solving and creating sleek UIs!*  
+- 🔭 I’m currently working on **Fullstack Projects**  
+- 🌱 I’m currently learning **React, TailwindCSS, and TypeScript**  
+- 💬 My main language **Python, C++, JS**
+- 📫 Reach me at **sangbom2005@gmail.com**  
+- ⚡ Fun fact: *I love doing leetcode and creating sleek UIs!*  
 
 ---
 
@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
 <a href="https://twitter.com/your-link" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="mailto:sangbom2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
