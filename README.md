@@ -28,8 +28,8 @@
 const sang = {
   location: "Ho Chi Minh City, Vietnam 🇻🇳",
   education: "Computer Science @ HCMUT (final year)",
-  currentRole: "Software Engineering Intern — ERP Implementation (Oracle Retail / NetSuite)",
-  workingOn: ["Spring Boot middleware & data pipelines", "AI-powered side projects"],
+  currentRole: "Software Engineering Intern",
+  workingOn: ["JS English Study Website, Spring Boot middleware & data pipelines", "AI-powered side projects"],
   learning: ["Java", "Spring Boot", "System Design"],
   interests: ["AI/ML & vector search (CLIP, FAISS)", "Hackathons", "Clean architecture"],
   funFact: "I love grinding LeetCode and crafting sleek UIs ✨",
