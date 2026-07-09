@@ -1,153 +1,212 @@
-<!-- ═══════════════════════ HEADER BANNER ═══════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&width=1000&text=Hi%20there%20👋%20I'm%20Xuân%20Sang&fontAlign=50&fontAlignY=40&color=0:f59e0b,100:ef4444&fontColor=ffffff&fontSize=45" alt="banner" />
+<!-- ══════════════════════════════════════════════════════════════════
+     XuanSang2005 · GitHub Profile README
+     Palette — brand orange, theme-aware:
+       dark theme  : accent #F97316 · body #C9D1D9 · muted #8B949E
+       light theme : accent #EA580C · body #24292F · muted #57606A
+     Mọi widget đều nền trong suốt + 2 nguồn <picture> cho dark/light.
+
+     ⚠️ LƯU Ý: instance chính thức github-readme-stats.vercel.app đang bị
+     Vercel tạm dừng (DEPLOYMENT_PAUSED — kiểm tra 2026-07-09) nên README
+     dùng mirror github-readme-stats-sigma-five.vercel.app (đã verify sống).
+     Khi instance chính thức hoạt động lại, chỉ cần find/replace:
+       github-readme-stats-sigma-five.vercel.app → github-readme-stats.vercel.app
+     ══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br>
+
+# Xuân Sang
+
+<sub>Nguyễn Xuân Sang · Ho Chi Minh City, Vietnam</sub>
+
+<br>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=500&size=17&duration=3400&pause=1100&center=true&vCenter=true&width=600&height=38&color=F97316&lines=Software+Engineering+Intern+%C2%B7+Full-stack+Developer;Java+%2F+Spring+Boot+%C2%B7+TypeScript+%2F+NestJS+%C2%B7+React;Final-year+CS+%40+HCMUT+%C2%B7+Ho+Chi+Minh+City">
+  <img src="https://readme-typing-svg.demolab.com/?font=IBM+Plex+Mono&weight=500&size=17&duration=3400&pause=1100&center=true&vCenter=true&width=600&height=38&color=EA580C&lines=Software+Engineering+Intern+%C2%B7+Full-stack+Developer;Java+%2F+Spring+Boot+%C2%B7+TypeScript+%2F+NestJS+%C2%B7+React;Final-year+CS+%40+HCMUT+%C2%B7+Ho+Chi+Minh+City" alt="Software Engineering Intern · Full-stack Developer · Final-year CS @ HCMUT">
+</picture>
+
+</div>
+
+<br>
+
+### About
+
+- **Now** — Software Engineering Intern, building **HQ → POS data-synchronization middleware** with Java 17 · Spring Boot 3 · PostgreSQL → [`Price_Sync`](https://github.com/XuanSang2005/Price_Sync)
+- **Study** — Final-year Computer Science student at **HCMUT** (Ho Chi Minh City University of Technology)
+- **Build** — Full-stack products in TypeScript: NestJS APIs, React / React Native frontends, PostgreSQL & MongoDB
+- **Explore** — AI/ML for multimedia retrieval — CLIP, FAISS, YOLO, Whisper — with PyTorch & FastAPI, mostly at hackathons
+- **Sharpen** — daily problem-solving on [LeetCode](https://leetcode.com/u/sangbom2005/)
+
+<br>
+
+### What I'm building now
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+
+**Price_Sync — HQ → POS synchronization**
+
+Middleware that pushes prices and product data from a retail **headquarters system** down to **point-of-sale terminals** in stores — built on **Java 17** and **Spring Boot 3**, with **PostgreSQL** as the system of record.
+
+It's the kind of software nobody notices until it fails, which is exactly where the interesting problems live: keeping every till consistent with HQ, surviving partial failures, and making sync observable instead of magical.
+
+<img src="https://img.shields.io/badge/Java%2017-6E7681?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17"> <img src="https://img.shields.io/badge/Spring%20Boot%203-6E7681?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 3"> <img src="https://img.shields.io/badge/PostgreSQL-6E7681?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+
+  </td>
+    <td width="45%" valign="top">
+      <a href="https://github.com/XuanSang2005/Price_Sync">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=XuanSang2005&repo=Price_Sync&hide_border=true&bg_color=00000000&title_color=F97316&text_color=C9D1D9&icon_color=F97316">
+          <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=XuanSang2005&repo=Price_Sync&hide_border=true&bg_color=00000000&title_color=EA580C&text_color=24292F&icon_color=EA580C" alt="Price_Sync — HQ to POS price & data sync middleware (Java, Spring Boot)">
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### Stack
+
+<table align="center">
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=java,ts,js,py,cpp" alt="Java, TypeScript, JavaScript, Python, C++"></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Frontend</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=react,tailwind,vite" alt="React, TailwindCSS, Vite"> &nbsp;<sub>+ React Native</sub></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Backend & Data</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=spring,nestjs,nodejs,postgres,mongodb,kafka" alt="Spring Boot, NestJS, Node.js, PostgreSQL, MongoDB, Kafka"></td>
+  </tr>
+  <tr>
+    <td align="right"><b>AI / ML & Tools</b></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=pytorch,fastapi,docker,git" alt="PyTorch, FastAPI, Docker, Git"> &nbsp;<sub>+ CLIP · FAISS · YOLO · Whisper</sub></td>
+  </tr>
+</table>
+
+<br>
+
+### Selected work
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/XuanSang2005/English-App">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=XuanSang2005&repo=English-App&hide_border=true&bg_color=00000000&title_color=F97316&text_color=C9D1D9&icon_color=F97316">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=XuanSang2005&repo=English-App&hide_border=true&bg_color=00000000&title_color=EA580C&text_color=24292F&icon_color=EA580C" alt="English-App — English learning app (TypeScript)">
+        </picture>
+      </a>
+      <br><sub>English learning app — TypeScript end to end.</sub>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/XuanSang2005/IELTS-LERNING-">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=XuanSang2005&repo=IELTS-LERNING-&hide_border=true&bg_color=00000000&title_color=F97316&text_color=C9D1D9&icon_color=F97316">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=XuanSang2005&repo=IELTS-LERNING-&hide_border=true&bg_color=00000000&title_color=EA580C&text_color=24292F&icon_color=EA580C" alt="IELTS-LERNING — IELTS study platform (TypeScript)">
+        </picture>
+      </a>
+      <br><sub>Study platform for IELTS preparation.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/XuanSang2005/YOLOHOME">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=XuanSang2005&repo=YOLOHOME&hide_border=true&bg_color=00000000&title_color=F97316&text_color=C9D1D9&icon_color=F97316">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=XuanSang2005&repo=YOLOHOME&hide_border=true&bg_color=00000000&title_color=EA580C&text_color=24292F&icon_color=EA580C" alt="YOLOHOME — smart home project (TypeScript)">
+        </picture>
+      </a>
+      <br><sub>Smart home dashboard — TypeScript in front, devices behind.</sub>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/XuanSang2005/InvoiceBuilder">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=XuanSang2005&repo=InvoiceBuilder&hide_border=true&bg_color=00000000&title_color=F97316&text_color=C9D1D9&icon_color=F97316">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=XuanSang2005&repo=InvoiceBuilder&hide_border=true&bg_color=00000000&title_color=EA580C&text_color=24292F&icon_color=EA580C" alt="InvoiceBuilder — lightweight invoice generator (JavaScript)">
+        </picture>
+      </a>
+      <br><sub>Lightweight invoice generator in JavaScript.</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### Numbers
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=XuanSang2005&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=F97316&text_color=C9D1D9&icon_color=F97316&ring_color=F97316">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=XuanSang2005&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=EA580C&text_color=24292F&icon_color=EA580C&ring_color=EA580C" alt="GitHub stats for XuanSang2005">
+      </picture>
+    </td>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=XuanSang2005&hide_border=true&background=00000000&ring=F97316&fire=F97316&currStreakLabel=F97316&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E&stroke=C9D1D9">
+        <img src="https://streak-stats.demolab.com?user=XuanSang2005&hide_border=true&background=00000000&ring=EA580C&fire=EA580C&currStreakLabel=EA580C&currStreakNum=24292F&sideNums=24292F&sideLabels=57606A&dates=57606A&stroke=24292F" alt="GitHub contribution streak">
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XuanSang2005&layout=compact&langs_count=8&hide=html,css&hide_border=true&bg_color=00000000&title_color=F97316&text_color=C9D1D9">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XuanSang2005&layout=compact&langs_count=8&hide=html,css&hide_border=true&bg_color=00000000&title_color=EA580C&text_color=24292F" alt="Most used languages">
+      </picture>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://leetcode.com/u/sangbom2005/">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/sangbom2005?theme=dark&font=IBM%20Plex%20Sans&border=0&radius=8">
+          <img src="https://leetcard.jacoblin.cool/sangbom2005?theme=light&font=IBM%20Plex%20Sans&border=0&radius=8" alt="LeetCode stats for sangbom2005">
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### Contact
+
+<p>
+  <a href="mailto:sangbom2005@gmail.com"><img src="https://img.shields.io/badge/Email-sangbom2005%40gmail.com-EA580C?style=flat-square&logo=gmail&logoColor=white" alt="Email sangbom2005@gmail.com"></a>&nbsp;
+  <a href="https://leetcode.com/u/sangbom2005/"><img src="https://img.shields.io/badge/LeetCode-sangbom2005-EA580C?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode profile"></a>
+  <!-- Thêm LinkedIn khi sẵn sàng:
+  <a href="LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Nguy%E1%BB%85n%20Xu%C3%A2n%20Sang-EA580C?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  -->
 </p>
 
-<!-- ═══════════════════════ TYPING LINE ═══════════════════════ -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&repeat=true&width=900&height=45&color=F97316&lines=Full-stack+Developer+%7C+TypeScript+%E2%80%A2+NestJS+%E2%80%A2+React;Final-year+Computer+Science+student+%40+HCMUT;Currently+diving+into+Java+%26+Spring+Boot+%E2%98%95;Building+AI-powered+products+%F0%9F%A4%96"
-    alt="Typing SVG"
-  />
-</p>
+Open to backend / full-stack opportunities and interesting AI side quests. The fastest way to reach me is email.
 
-<!-- ═══════════════════════ QUICK BADGES ═══════════════════════ -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xuansang2005&style=for-the-badge&color=f97316" alt="profile views"/>
-  <a href="mailto:sangbom2005@gmail.com"><img src="https://img.shields.io/badge/Gmail-sangbom2005%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
-  <a href="https://leetcode.com/u/sangbom2005/"><img src="https://img.shields.io/badge/LeetCode-sangbom2005-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode"/></a>
-  <!-- 👉 Điền link LinkedIn thật rồi bỏ comment dòng dưới -->
-  <!-- <a href="https://linkedin.com/in/YOUR-REAL-LINK"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a> -->
-</p>
+<br>
 
 ---
 
-## 🌟 About Me
+<div align="center">
 
-```typescript
-const sang = {
-  location: "Ho Chi Minh City, Vietnam 🇻🇳",
-  education: "Computer Science @ HCMUT (final year)",
-  currentRole: "Software Engineering Intern",
-  workingOn: ["JS English Study Website, Spring Boot middleware & data pipelines", "AI-powered side projects"],
-  learning: ["Java", "Spring Boot", "System Design"],
-  interests: ["AI/ML & vector search (CLIP, FAISS)", "Hackathons", "Clean architecture"],
-  funFact: "I love grinding LeetCode and crafting sleek UIs ✨",
-};
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XuanSang2005/XuanSang2005/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/XuanSang2005/XuanSang2005/output/snake.svg" alt="Contribution snake animation">
+</picture>
 
-- 🔭 Currently building **HQ→POS data synchronization middleware** with **Java 17 / Spring Boot 3 / PostgreSQL**
-- 🚀 Shipped full-stack products with **NestJS + React/React Native + TypeScript**
-- 🤖 Passionate about **AI/ML** — multimedia retrieval pipelines (CLIP, FAISS, YOLO, Whisper) & AI hackathons
-- 📫 Reach me at **sangbom2005@gmail.com**
+<br>
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=XuanSang2005&style=flat-square&color=ea580c&label=views" alt="Profile views">
 
-## 🛠️ Tech Stack
+<br>
 
-<h4 align="center">Languages</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-</p>
+<sub>Ho Chi Minh City, Vietnam</sub>
 
-<h4 align="center">Frontend</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
-</p>
-
-<h4 align="center">Backend & Databases</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
-
-<h4 align="center">AI / ML & Tools</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
----
-
-## 📌 Featured Projects
-
-<!-- ⚠️ Lưu ý: username trong tham số ?username= PHẢI trùng với account thật sự chứa repo.
-     Nếu shopping_web nằm ở account cũ (GitGud031005) thì đổi cả username lẫn href cho khớp. -->
-<p align="center">
-  <a href="https://github.com/xuansang2005/shopping_web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xuansang2005&repo=shopping_web&theme=radical&hide_border=true&bg_color=00000000&title_color=f97316&text_color=ffffff&icon_color=ef4444" alt="shopping_web"/>
-  </a>
-  <a href="https://github.com/xuansang2005/React-preview">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xuansang2005&repo=React-preview&theme=radical&hide_border=true&bg_color=00000000&title_color=f97316&text_color=ffffff&icon_color=ef4444" alt="React-preview"/>
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xuansang2005&show_icons=true&hide_border=true&bg_color=00000000&title_color=f97316&text_color=ffffff&icon_color=ef4444&ring_color=f59e0b" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=xuansang2005&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=f97316&text_color=ffffff" alt="top langs"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=xuansang2005&hide_border=true&background=00000000&ring=ef4444&fire=f97316&currStreakLabel=f59e0b&sideNums=f59e0b&sideLabels=ffffff" alt="streak"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xuansang2005&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies"/>
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xuansang2005&theme=github-compact&bg_color=00000000&color=f97316&line=ef4444&point=facc15&area=true&hide_border=true" alt="activity graph"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<!-- ⚠️ Cần GitHub Action (Platane/snk) chạy trong repo xuansang2005/xuansang2005
-     để generate 2 file SVG này vào branch `output`. Xem file snake.yml kèm theo. -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xuansang2005/xuansang2005/output/snake-dark.svg" />
-    <img alt="snake animation" src="https://raw.githubusercontent.com/xuansang2005/xuansang2005/output/snake.svg" />
-  </picture>
-</p>
-
----
-
-## 🧩 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/sangbom2005/">
-    <img src="https://leetcard.jacoblin.cool/sangbom2005?ext=heatmap&theme=dark&border=0&radius=16&font=Source%20Code%20Pro&hide=ranking" alt="leetcode card"/>
-  </a>
-</p>
-
-<!-- ═══════════════════════ FOOTER WAVE ═══════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:ef4444,100:f59e0b" alt="footer"/>
-</p>
+</div>
